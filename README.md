@@ -32,6 +32,6 @@ REA-Kodakku-local
 [√]  [ ]M2s绘图 v0.0.0.3  
 [√]  [ ]M3s绘图.cs  
 [√]  [ ]M4s绘图 v0.0.0.13  
-[√]  [ ]M5s绘图.cs
-[√]  [ ]M6s绘图.cs
+[√]  [ ]M5s绘图.cs  
+[√]  [ ]M6s绘图.cs  
 [√]  [ ]OmegaProtocolUltimate
