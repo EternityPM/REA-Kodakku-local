@@ -1,0 +1,23 @@
+{
+  "Author": "EternityPMoon",
+  "Name": "Boss 绘图指路助手",
+  "InternalName": "BossDrawAssist",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "脚本化 Boss 技能绘图与指路助手：通过 C# 脚本监听战斗事件（读条、Buff、Waymark 等），在世界中绘制危险圈、安全区、扇形、直线等提示，并提供 Waymark 指路箭头与 TTS 语音播报。完全本地运行，无需任何网络认证。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/yourname/BossDrawAssist",
+  "Tags": [
+    "boss",
+    "combat",
+    "draw",
+    "waymark",
+    "tts"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "无需认证的脚本化 Boss 技能绘图与指路工具。",
+  "AcceptsFeedback": true
+}
